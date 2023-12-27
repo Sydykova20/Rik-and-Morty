@@ -1,0 +1,11 @@
+{
+  "books": [
+    {
+      "bookName": "Девушка в поезде",
+      "bookAuthor": "Пола Хокинс",
+      "bookImg": "ing",
+      "bookPrice": "250",
+      "id": 10
+    }
+  ]
+}
